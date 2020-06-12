@@ -33,7 +33,7 @@
     "firebase": "^5.4.2",
     "font-awesome": "^4.7.0",
     "grpc": "^1.14.2",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "ngx-bootstrap": "^2.0.2",
     "node-sass": "^4.9.3",
     "popper.js": "^1.12.5",
